@@ -1,5 +1,6 @@
 {
   "name": "contador-de-clics",
+  "homepage": "https://camilacisnerosdev.github.io/contador-de-clics-react-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
