@@ -13,3 +13,7 @@ Para instalar los módulos necesarios para la aplicación, debes ejecutar el com
 
 ## Aprende React
 Si deseas aprender React, te invitamos a tomar el [curso gratuito de React (8 horas)](https://www.youtube.com/watch?v=6Jfk8ic3KVk) en el canal de YouTube de freeCodeCamp en Español.
+
+##vista previa
+![Vista previa](vista%20previa.png)
+
